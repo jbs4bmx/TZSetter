@@ -60,11 +60,11 @@ I found that I could run a command to change the time zone and that got the job 
 ### Built With
 | Frameworks/Libraries                                      | Name         | Link                                       |
 | :-------------------------------------------------------: | :----------: | :----------------------------------------: |
-| <img src="./images/icons/DotNet.svg" width="48">          | `.NET`       | [.NET Documentation][NET-url]              |
+| <img src="./res/icons/DotNet.svg" width="48">          | `.NET`       | [.NET Documentation][NET-url]              |
 
 |                         IDEs                                |      Name       | Link                                      |
 | :---------------------------------------------------------: | :-------------: | :---------------------------------------: |
-| <img src="./images/icons/VisualStudio-Dark.svg" width="48"> | `Visual Studio` | [Visual Studio Website][VisualStudio-url] |
+| <img src="./res/icons/VisualStudio-Dark.svg" width="48"> | `Visual Studio` | [Visual Studio Website][VisualStudio-url] |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
